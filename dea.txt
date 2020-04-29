@@ -24,6 +24,7 @@
 2odem.com
 2prong.com
 30minutemail.com
+321-email.com
 33mail.com
 3dmail.top
 3mail.rocks
@@ -220,6 +221,7 @@ e-mail.com
 e-mail.org
 e4ward.com
 easy-apps.info
+easy-mail.top
 easyemail.info
 easymail.top
 easytrashmail.com
@@ -365,6 +367,7 @@ hubopss.com
 hulapla.de
 hurify1.com
 idea-mail.com
+idea-mail.net
 idx4.com
 ieasymail.net
 ieh-mail.de
@@ -477,6 +480,7 @@ mailart.ws
 mailbidon.com
 mailbiz.biz
 mailblocks.com
+mailboxt.com
 mailbucket.org
 mailcat.biz
 mailcatch.com
@@ -635,6 +639,7 @@ objectmail.com
 obobbo.com
 odnorazovoe.ru
 officemalaga.com
+omegafive.net
 onemail1.com
 oneoffemail.com
 onewaymail.com
@@ -743,6 +748,7 @@ shoproyal.net
 shortmail.net
 sibmail.com
 silvercoin.life
+simplebox.email
 simpleemail.info
 simplelogin.fr
 simplelogin.io
@@ -823,11 +829,13 @@ swift-mail.net
 tafmail.com
 talkinator.com
 taylorventuresllc.com
+tech-mail.net
 tech5group.com
 techgroup.top
 teewars.org
 teleworm.com
 teleworm.us
+temp-cloud.net
 temp-mail.org
 temp-mail.ru
 tempcloud.in
@@ -947,6 +955,7 @@ wh4f.org
 whyspam.me
 willhackforfood.biz
 willselfdestruct.com
+win-777.net
 winemail.net
 winemaven.info
 winnweb.net

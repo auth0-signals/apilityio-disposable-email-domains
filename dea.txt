@@ -189,6 +189,7 @@ devnullmail.com
 dfgh.net
 die.life
 digital-work.net
+digitalmail.info
 digitalsanctuary.com
 dim-coin.com
 dingbone.com
@@ -254,6 +255,7 @@ emailtemporar.ro
 emailtemporario.com.br
 emailthe.net
 emailtmp.com
+emailure.net
 emailwarden.com
 emailx.at.hm
 emailxfer.com
@@ -512,6 +514,7 @@ mailing.one
 mailismagic.com
 maillak.com
 maillink.in
+maillink.info
 maillink.live
 maillist.in
 mailme.ir
@@ -970,6 +973,7 @@ www.mailinator.com
 wwwnew.eu
 x-netmail.com
 x.ip6.li
+x3mailer.com
 x7mail.com
 xagloo.com
 xcodes.net
@@ -994,6 +998,7 @@ yuurok.com
 z1p.biz
 za.com
 zdenka.net
+zdfpost.net
 zehnminuten.de
 zehnminutenmail.de
 zep-hyr.com

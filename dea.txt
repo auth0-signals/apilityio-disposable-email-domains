@@ -3,6 +3,7 @@
 0experts.com
 0wnd.net
 0wnd.org
+10mi.org
 10minutemail.co.za
 10minutemail.com
 10minutemail.nl
@@ -179,6 +180,7 @@ cyber-host.net
 d3p.dk
 daabox.com
 dacoolest.com
+daily-email.com
 dandikmail.com
 datasoma.com
 dayloo.com
@@ -422,6 +424,7 @@ iopmail.com
 ip6.li
 irish2me.com
 ismailgul.net
+it-simple.net
 it-smart.org
 itfast.net
 itiomail.com
@@ -549,6 +552,7 @@ mailing.one
 mailismagic.com
 maillak.com
 maillei.com
+mailline.net
 maillink.in
 maillink.info
 maillink.live
@@ -918,6 +922,7 @@ thc.st
 the-first.email
 theeasymail.com
 thelimestones.com
+themailpro.net
 theskymail.com
 thisisnotmyrealemail.com
 thismail.net
@@ -1062,6 +1067,7 @@ zdfpost.net
 zehnminuten.de
 zehnminutenmail.de
 zep-hyr.com
+zeta-telecom.com
 zetmail.com
 zhewei88.com
 zippiex.com

@@ -166,6 +166,7 @@ clixser.com
 cloud-mail.net
 cloudstat.top
 clrmail.com
+clsn.top
 clsn1.com
 cmail.net
 cmail.org
@@ -532,6 +533,7 @@ mail4.online
 mail4gmail.com
 mail62.net
 mail8app.com
+mailapp.top
 mailart.top
 mailart.ws
 mailbidon.com
@@ -692,6 +694,7 @@ newtmail.com
 next-mail.online
 next2cloud.info
 nextemail.net
+nextmail.in
 nextmail.info
 nice-4u.com
 nickrizos.com

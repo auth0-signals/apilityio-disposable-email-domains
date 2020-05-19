@@ -772,7 +772,9 @@ promailt.com
 proto2mail.com
 provamail.com
 providier.com
+provlst.com
 provmail.net
+prowerl.com
 proxymail.eu
 prtnx.com
 putthisinyourspamdatabase.com
@@ -1072,6 +1074,7 @@ wegwerfmail.info
 wegwerfmail.net
 wegwerfmail.org
 wh4f.org
+whowlft.com
 whyspam.me
 willhackforfood.biz
 willselfdestruct.com
@@ -1098,6 +1101,7 @@ xemaps.com
 xents.com
 xgmailoo.com
 xhyemail.com
+ximtyl.com
 xmail2.net
 xmail365.net
 xmailweb.com

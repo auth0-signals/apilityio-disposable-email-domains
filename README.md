@@ -1,4 +1,4 @@
-# Apility.io - Disposable Email Addresses list
+# Auth0 Signals / Apility.io - Disposable Email Addresses list
 
 ## What is a Disposable Email Address
 
@@ -8,7 +8,7 @@ DEA can be used to mask the identities of abusers, because DEA providers don't s
 
 ## What does this repository contain?
 
-This repo contains one or more files containing different domains that have been reported to Apility.io as a Disposable Email Address. As result, it has been added to the set of domain blacklist of Apility.io in the DEA blacklist: https://apility.io/list/DEA/type/baddomain
+This repo contains one or more files containing different domains that have been reported to Apility.io as a Disposable Email Address. As result, it has been added to the set of domain blacklist of Auth0-Signals/Apility.io in the DEA blacklist: https://apility.io/list/DEA/type/baddomain
 
 ## Can I submit any domain found ?
 
@@ -30,8 +30,8 @@ If you post an issue, we will modify the files for you, but it can take longer. 
 
 ## What happens next?
 
-Once the PR or the Issue is submitted I will review the content to accept or reject it. If it's accepted, then an automatic process of Apility.io will parse the file and the runtime database of Apility will be updated. This process occurs every day.
+Once the PR or the Issue is submitted I will review the content to accept or reject it. If it's accepted, then an automatic process of Apility.io will parse the file and the runtime database of Auth0-Signals/Apility.io will be updated. This process occurs every day.
 
 ## Can I use the content of the lists in my own applications?
 
-Of course! Please do it! Also keep in mind that Apility.io has several up to date lists that you can use: https://apility.io/lists/baddomain
+Of course! Please do it! Also keep in mind that Auth0-Signals/Apility.io has several up to date lists that you can use: https://apility.io/lists/baddomain

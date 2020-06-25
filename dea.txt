@@ -465,6 +465,7 @@ jetable.com
 jetable.fr.nf
 jetable.net
 jetable.org
+jetsmails.com
 jmail7.com
 jnxjn.com
 jo-mail.com

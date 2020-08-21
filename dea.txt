@@ -6,9 +6,12 @@
 0wnd.net
 0wnd.org
 10mi.org
+10minute-email.com
 10minutemail.co.za
+10minutemail.co.uk
 10minutemail.com
 10minutemail.nl
+10mail.org
 123-m.com
 1blackmoon.com
 1fsdfdsfsdf.tk
@@ -17,6 +20,7 @@
 1shivom.com
 1thecity.biz
 20minutemail.com
+20mm.eu
 21cn.com
 22office.com
 247web.net
@@ -264,6 +268,7 @@ dr-mail.net
 drdrb.net
 dreamcatcher.email
 drmail.net
+dropjar.com
 droplar.com
 dumoac.net
 dump-email.info
@@ -388,6 +393,7 @@ getbreathtaking.com
 getcoolmail.info
 getemail9.com
 getmails.eu
+getnada.com
 getonemail.com
 getsimpleemail.com
 getstarter.com
@@ -398,6 +404,7 @@ gifto12.com
 gilfun.com
 girlsundertheinfluence.com
 gishpuppy.com
+givmail.com
 globaleuro.net
 gmailer.top
 gmial.com
@@ -472,6 +479,7 @@ in4mail.net
 inbax.tk
 inbox.si
 inboxalias.com
+inboxbear.com
 inboxclean.com
 inboxclean.org
 infocom.zp.ua
@@ -720,6 +728,7 @@ mt2014.com
 mtsg.me
 munichmail.online
 mvrht.com
+my10minutemail.com
 my6com.com
 my6mail.com
 mycard.net.ua
@@ -900,6 +909,7 @@ rmail.com
 rmailcloud.com
 rmailgroup.in
 rmqkr.net
+robot-mail.com
 rockmail.top
 rockmailapp.com
 rockmailgroup.com
@@ -965,6 +975,7 @@ smart-mail.top
 smartbusiness.me
 smashmail.de
 smellfear.com
+smlmail.com
 snakemail.com
 sneakemail.com
 sneakmail.de
@@ -1098,6 +1109,7 @@ topmail1.net
 topmail2.com
 topmail2.net
 topranklist.de
+torbox.com
 tradermail.info
 trash-mail.at
 trash-mail.com
@@ -1225,6 +1237,7 @@ xmailweb.com
 xmaily.com
 xoxy.net
 xtsserv.com
+xzsok.com
 yep.it
 yk20.com
 ymail365.com
@@ -1249,6 +1262,7 @@ zippiex.com
 zippymail.info
 zjexmail.com
 zkeiw.com
+zmat.xyz
 zoemail.net
 zomg.info
 zsero.com
